@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote  name="github" fetch="https://github.com" revision="develop" review="" />
+  <remote  name="vinhnt2410" fetch="https://github.com/vinhnt2410" revision="develop" review="" />
 <!--   </project> -->
-  <project name="vinhnt2410/tools" path="lib/tools" groups="lib" remote="github" />
+  <project name="tools" path="tools" revision="main" remote="vinhnt2410" />
 </manifest>
