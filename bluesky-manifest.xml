@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remote  name="vinhnt2410" fetch="https://github.com/vinhnt2410" revision="develop" review="" />
-<!--   </project> -->
-  <project name="tools" path="tools" revision="main" remote="vinhnt2410" />
+
+  <project remote="vinhnt2410" name="bluesky" revision="develop" path="bluesky" />
+  <project remote="vinhnt2410" name="Fast-DDS" revision="develop" path="fastdds" />
+  <project remote="vinhnt2410" name="tools" revision="main" path="tools" />
+  <project remote="vinhnt2410" name="linux_driver" revision="master" path="linux_driver" />
 </manifest>
