@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote  name="vinhnt2410" fetch="git@github.com:vinhnt2410" revision="develop" review="" />
+  <remote  name="vinhnt2410" fetch="ssh://git@github.com/vinhnt2410" revision="develop" review="" />
 
   <project remote="vinhnt2410" name="bluesky" revision="develop" path="bluesky" />
   <project remote="vinhnt2410" name="Fast-DDS" revision="develop" path="fastdds" />
