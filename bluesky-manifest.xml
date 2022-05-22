@@ -4,7 +4,7 @@
 
   <project remote="vinhnt2410" name="bluesky" revision="develop" path="bluesky" />
   <!-- <project remote="vinhnt2410" name="Fast-DDS" revision="develop" path="fastdds" /> -->
-  <project remote="vinhnt2410" name="tools" revision="main" path="tools" />
+  <project remote="vinhnt2410" name="tools" revision="develop" path="tools" />
   <project remote="vinhnt2410" name="linux_driver" revision="master" path="linux_driver" />
   <!-- <project remote="vinhnt2410" name="iceoryx" revision="master" path="iceoryx" /> -->
   <project remote="vinhnt2410" name="graphic" revision="develop" path="graphic" />
